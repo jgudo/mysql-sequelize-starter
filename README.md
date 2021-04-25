@@ -1,0 +1,1 @@
+# Express Typescript Sequelize Boilerplate
